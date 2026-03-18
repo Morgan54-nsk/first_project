@@ -1,1 +1,3 @@
-my first test git repo
+## About The Project
+
+My first test git repo
